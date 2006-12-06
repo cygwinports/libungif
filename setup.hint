@@ -1,0 +1,12 @@
+category: Graphics Libs
+requires: cygwin libungif4 libungif-devel
+sdesc: "Uncompressed GIF file manipulation library (documentation)"
+ldesc: "Once upon a time, Gershon Elbor and Eric Raymond wrote a freely
+available library called giflib. This library provided a means for
+software writers to quickly add GIF file manipulation to their programs.
+
+libungif is a library which can be called in the same manner as giflib,
+but creates uncompressed gifs instead of ones encoded with LZW. This
+allows programmers to write software that is capable of talking to
+either giflib or libungif during the transition from gif to png."
+
