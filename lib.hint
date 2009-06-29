@@ -1,5 +1,5 @@
 category: Graphics Libs
-requires: cygwin libX11_6
+requires: libX11_6
 external-source: libungif
 sdesc: "Uncompressed GIF file manipulation library (runtime)"
 ldesc: "Once upon a time, Gershon Elbor and Eric Raymond wrote a freely
